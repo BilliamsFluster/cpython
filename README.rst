@@ -1,3 +1,5 @@
+Python is an interpreted, high-level/low level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's syntax is easy to understand and write code in. 
+
 This is Python version 3.9.0 alpha 0
 ====================================
 
